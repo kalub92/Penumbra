@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Penumbra: UIView/UIButton Subclass to create perfect, magical diffused drop shadows.
 ####*pe•num•bra*
 **/pəˈnəmbrə/**
@@ -52,4 +51,3 @@ Penumbra is available under the MIT license. See the LICENSE file for more info.
 =======
 # Penumbra
 A UIView/UIButton Subclass to create perfect, magical diffused drop shadows.
->>>>>>> ae0da551331d236e7c509c77af50638896e9e81f
