@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+This repo is inspired by this [blog post](http://blog.invisionapp.com/how-to-make-the-perfect-diffused-drop-shadow/) from InVision which taught me to make these amazing, fluffy drop shadows in Sketch 3. It is a spin off of the work of [bennibrightside](https://github.com/bennibrightside) called [ShadowView](https://github.com/bennibrightside/ShadowView).
                        DESC
 
   s.homepage         = 'https://github.com/kalub92/Penumbra'
