@@ -1,0 +1,6 @@
+framework module Penumbra {
+  umbrella header "Penumbra-umbrella.h"
+
+  export *
+  module * { export * }
+}
