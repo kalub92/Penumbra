@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Penumbra_Example' do
+  pod 'Penumbra', :path => '../'
+
+  target 'Penumbra_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
