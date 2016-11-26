@@ -49,5 +49,3 @@ Caleb Stultz, kalub92@gmail.com
 
 Penumbra is available under the MIT license. See the LICENSE file for more info.
 =======
-# Penumbra
-A UIView/UIButton Subclass to create perfect, magical diffused drop shadows.
