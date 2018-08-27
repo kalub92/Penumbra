@@ -6,7 +6,7 @@
 
 the partially shaded outer region of the shadow cast by an opaque object.
 
-![Screenshot](https://github.com/kalub92/Penumbra/blob/master/Screenshot.png)
+![Screenshot](https://i.imgur.com/Jg0V9q6.png)
 
 This repo is inspired by this [blog post](http://blog.invisionapp.com/how-to-make-the-perfect-diffused-drop-shadow/) from InVision which taught me to make these amazing, fluffy drop shadows in Sketch 3. It is a spin off of the work of [bennibrightside](https://github.com/bennibrightside) called [ShadowView](https://github.com/bennibrightside/ShadowView).
 
