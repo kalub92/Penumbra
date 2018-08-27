@@ -17,6 +17,10 @@ This repo is inspired by this [blog post](http://blog.invisionapp.com/how-to-mak
 
 Penumbra views can be used with in Interface Builder or be build programatically. The properties for `cornerRadius`, `shadowOffset`, `shadowRadius`, `shadowOpacity` and `shadowColor` can be modified via Interface Builder.
 
+<p align="center">
+  <img src="https://i.imgur.com/tfgo2b9.png">
+</p>
+
 ## Installation
 
 To install Penumbra, clone this repository and drag the `Penumbra` folder into your Xcode project.
@@ -28,8 +32,6 @@ To install Penumbra, clone this repository and drag the `Penumbra` folder into y
 2.) Change the UIView/UIButton's identity to inherit from PenumbraView/PenumbraButton depending on what element you're trying to modify.
 
 3.) In the Attributes Inspector, feel free to tweak any settings you'd like thanks to @IBInspectable.
-
-![Screenshot](https://github.com/kalub92/Penumbra/blob/master/@IBInspectable.png)
 
 4.) Enjoy the magical diffused drop shadows! 🔮
 
