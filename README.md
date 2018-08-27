@@ -22,12 +22,7 @@ Penumbra views can be used with in Interface Builder or be build programatically
 
 ## Installation
 
-Penumbra is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod "Penumbra"
-```
+To install Penumbra, clone this repository and drag the `Penumbra` folder into your Xcode project.
 
 ## Steps
 
