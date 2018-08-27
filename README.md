@@ -42,4 +42,3 @@ Caleb Stultz, kalub92@gmail.com
 ## License
 
 Penumbra is available under the MIT license. See the LICENSE file for more info.
-=======
