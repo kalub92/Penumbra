@@ -13,12 +13,6 @@ the partially shaded outer region of the shadow cast by an opaque object.
 
 This repo is inspired by this [blog post](http://blog.invisionapp.com/how-to-make-the-perfect-diffused-drop-shadow/) from InVision which taught me to make these amazing, fluffy drop shadows in Sketch 3. It is a spin off of the work of [bennibrightside](https://github.com/bennibrightside) called [ShadowView](https://github.com/bennibrightside/ShadowView).
 
-
-[![CI Status](http://img.shields.io/travis/Caleb Stultz/Penumbra.svg?style=flat)](https://travis-ci.org/Caleb Stultz/Penumbra)
-[![Version](https://img.shields.io/cocoapods/v/Penumbra.svg?style=flat)](http://cocoapods.org/pods/Penumbra)
-[![License](https://img.shields.io/cocoapods/l/Penumbra.svg?style=flat)](http://cocoapods.org/pods/Penumbra)
-[![Platform](https://img.shields.io/cocoapods/p/Penumbra.svg?style=flat)](http://cocoapods.org/pods/Penumbra)
-
 ## Usage
 
 Penumbra views can be used with in Interface Builder or be build programatically. The properties for `cornerRadius`, `shadowOffset`, `shadowRadius`, `shadowOpacity` and `shadowColor` can be modified via Interface Builder.
