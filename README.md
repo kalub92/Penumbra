@@ -1,5 +1,6 @@
 # Penumbra: UIView/UIButton Subclass to create perfect, magical diffused drop shadows.
-#### *pe•num•bra*
+**pe•num•bra**
+
 **/pəˈnəmbrə/**
 
 *noun*
